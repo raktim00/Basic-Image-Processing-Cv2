@@ -1,2 +1,7 @@
-# Basic_Image_Processing_Cv2
-Creating your own Image using Cv2. Joining two images, cropping &amp; swapping images using Cv2.
+# Task Description
+
+1. Create image by yourself Using Python Code 
+2. Take two image and combine it to form single image. For example collage 
+3. Take two image crop some part of both image and swap it.
+
+### Video Demonstration : https://bit.ly/3fYwzN9
